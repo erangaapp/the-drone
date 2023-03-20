@@ -1,2 +1,4 @@
-# the-drone
-There is a major new technology that is destined to be a disruptive force in the field of transportation: the drone. Just as the mobile phone allowed developing countries to leapfrog older technologies for personal communication, the drone has the potential to leapfrog traditional transportation infrastructure.
+# the-drone-api
+1. Make sure to update the DroneAPI connection string for the SQL server in DroneAPI & Schedule.CheckDronesBatteryLevel projects.
+2. Make sure to update the DefaultEndpointsProtocol in the Schedule.CheckDronesBatteryLevel project.
+3. Totally developed with .NET-7.0. Make sure to use a compatible IDE like Visual studio 2022 to run the solution.
