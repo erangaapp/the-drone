@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DroneAPI.Models\DroneAPI.Models.csproj" />
+    <ProjectReference Include="..\DroneAPI.Repositories\DroneAPI.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

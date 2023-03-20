@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8WeQJRu6PW5/Bd/wd9gs0yuenXswaNiJ38SpjQDovWlLQvpRT1qEHQ6M0UkjZ1ZmYuHL1CrUULz4X3ho9CeEYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\e.pushpakumara\\source\\repos\\TheDrone\\DroneAPI.Core\\DroneAPI.Core.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.sana-commerce.com/AddonsDev/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.DataAccess\bin\Debug\net7.0\DroneAPI.DataAccess.deps.json
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.DataAccess\bin\Debug\net7.0\DroneAPI.DataAccess.dll
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.DataAccess\bin\Debug\net7.0\DroneAPI.DataAccess.pdb
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.DataAccess\obj\Debug\net7.0\DroneAPI.DataAccess.csproj.AssemblyReference.cache
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.DataAccess\obj\Debug\net7.0\DroneAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.DataAccess\obj\Debug\net7.0\DroneAPI.DataAccess.AssemblyInfoInputs.cache
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.DataAccess\obj\Debug\net7.0\DroneAPI.DataAccess.AssemblyInfo.cs
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.DataAccess\obj\Debug\net7.0\DroneAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.DataAccess\obj\Debug\net7.0\DroneAPI.DataAccess.dll
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.DataAccess\obj\Debug\net7.0\refint\DroneAPI.DataAccess.dll
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.DataAccess\obj\Debug\net7.0\DroneAPI.DataAccess.pdb
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.DataAccess\obj\Debug\net7.0\ref\DroneAPI.DataAccess.dll

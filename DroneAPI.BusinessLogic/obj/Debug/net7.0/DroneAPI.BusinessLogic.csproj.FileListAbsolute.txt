@@ -1,0 +1,12 @@
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.BusinessLogic\bin\Debug\net7.0\DroneAPI.BusinessLogic.deps.json
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.BusinessLogic\bin\Debug\net7.0\DroneAPI.BusinessLogic.dll
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.BusinessLogic\bin\Debug\net7.0\DroneAPI.BusinessLogic.pdb
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.BusinessLogic\obj\Debug\net7.0\DroneAPI.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.BusinessLogic\obj\Debug\net7.0\DroneAPI.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.BusinessLogic\obj\Debug\net7.0\DroneAPI.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.BusinessLogic\obj\Debug\net7.0\DroneAPI.BusinessLogic.AssemblyInfo.cs
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.BusinessLogic\obj\Debug\net7.0\DroneAPI.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.BusinessLogic\obj\Debug\net7.0\DroneAPI.BusinessLogic.dll
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.BusinessLogic\obj\Debug\net7.0\refint\DroneAPI.BusinessLogic.dll
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.BusinessLogic\obj\Debug\net7.0\DroneAPI.BusinessLogic.pdb
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI.BusinessLogic\obj\Debug\net7.0\ref\DroneAPI.BusinessLogic.dll

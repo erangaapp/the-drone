@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "pEJhVkDuNcgeUXOTKbm4yiZzLRc3AfhZ2hRP8RL+XNIN9Af2yg64U9kqS9pJXGBpTvaj085l2Sf0PyCkUIi0pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\e.pushpakumara\\source\\repos\\TheDrone\\DroneAPI.Models\\DroneAPI.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\e.pushpakumara\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.sana-commerce.com/AddonsDev/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
