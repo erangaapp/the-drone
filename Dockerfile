@@ -20,7 +20,6 @@ RUN dotnet build "DroneAPI.csproj" -c Release -o /app/build
 
 FROM build AS publish
 RUN dotnet publish "DroneAPI.csproj" -c Release -o /app
-#RUN dotnet publish -c Release -o /app --self-contained false --no-restore
 
 # final stage/image
 FROM mcr.microsoft.com/dotnet/aspnet:7.0
