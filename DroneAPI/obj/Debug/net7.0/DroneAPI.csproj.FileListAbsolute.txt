@@ -87,3 +87,4 @@ C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI\bin\Debug\net7.0\FluentVa
 C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI\obj\Debug\net7.0\DroneAPI.DroneAPITexts.resources
 C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI\obj\Debug\net7.0\DroneAPI.csproj.GenerateResource.cache
 C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI\bin\Debug\net7.0\FluentValidator.dll
+C:\Users\e.pushpakumara\source\repos\TheDrone\DroneAPI\bin\Debug\net7.0\appsettings.Release.json

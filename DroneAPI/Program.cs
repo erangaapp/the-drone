@@ -8,8 +8,6 @@ using DroneAPI.Models;
 using DroneAPI.Models.ModelValidators;
 
 var builder = WebApplication.CreateBuilder(args);
-//builder.Logging.ClearProviders();
-//builder.Logging.AddConsole();
 
 // Add services to the container.
 builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
@@ -38,7 +36,6 @@ builder.Services.AddDbContext<DroneAPIDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DroneAPI"));
 });
-
 
 var app = builder.Build();
 

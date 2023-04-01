@@ -11,7 +11,7 @@ namespace Schedule.CheckDronesBatteryLevel
             var availableDrones = await droneService.GetAvailableDronesForLoading();
             foreach (var drone in availableDrones)
             {
-                var batteryLevel = droneService.GetDroneBatteryLevel(drone.Id);
+                var batteryLevel = await droneService.GetDroneBatteryLevel(drone.Id);
                 logger.LogInformation($"Battery Level Of Drone: {drone.SerialNumber} is {batteryLevel}");
             }
         }
